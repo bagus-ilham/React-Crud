@@ -1,0 +1,28 @@
+{
+  "posts": [
+    {
+      "title": "abi",
+      "author": "bulatan 0",
+      "id": 2
+    },
+    {
+      "id": 3,
+      "title": "ilyas",
+      "author": "bulat"
+    },
+    {
+      "title": "abi",
+      "author": "lingkaran",
+      "id": 4
+    },
+    {
+      "id": 5,
+      "title": "tes",
+      "author": "tes2"
+    }
+  ],
+  "comments": [],
+  "profile": {
+    "name": "typicode"
+  }
+}
